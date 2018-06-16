@@ -1,0 +1,4 @@
+name: ChestPvP-TimeRanks
+main: pl.blackwater.timeranks.Main
+version: 1.0
+depend: [ChestPvP-Api]
